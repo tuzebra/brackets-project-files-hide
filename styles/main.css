@@ -1,0 +1,27 @@
+#project-files-header,
+#project-files-container,
+.open-files-container .scroller-shadow{
+	display:none !important;
+}
+.open-files-container{
+	max-height:none !important;
+}
+
+#working-set-list-container{
+	height: 100%;
+}
+#working-set-list-container .working-set-view{
+	height: 100%;
+	display: -webkit-box;
+	display: -moz-box;
+	display: box;
+	-webkit-box-orient: vertical;
+	-moz-box-orient: vertical;
+	box-orient: vertical;
+	white-space: nowrap;
+}
+#working-set-list-container .open-files-container{
+	-webkit-box-flex: 1;
+	-moz-box-flex: 1;
+	box-flex: 1;
+}
