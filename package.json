@@ -2,7 +2,7 @@
     "name": "brackets-project-files-hide",
     "title": "Hide Project files panel",
     "version": "1.0.0",
-    "description": "Allow the user to hide Project file",
+    "description": "Allow the user to hide Project file.",
     "homepage": "https://github.com/tuzebra/brackets-project-files-hide",
     "author": "Tuzebra (http://www.april.com.vn)",
     "categories":"interface",
